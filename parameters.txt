@@ -1,0 +1,52 @@
+
+Parameters for openers
+
+1. Batting Average   - Average runs scored in an innings > 30             
+2. Strike Rate       - No of runs scored per 100 balls   > 140             
+3. Innings Batted    - Total Innings batted              > 3
+4. Boundary %        - % of runs scored in boundaries    > 50         
+5. Batting position  - Order in which the batter played  < 3
+
+
+Anchors / Middle Order
+
+1. Batting Average   - Average runs scored in an innings   > 40              
+2. Strike Rate       - No of runs scored per 100 balls     > 125           
+3. Innings Batted    - Total Innings batted                > 3
+4. Avg. Balls Faced  - Average balls faced by the batter in an innings > 20
+5. Batting position  - Order in which the batter played    > 2
+
+Finisher
+
+1. Batting Average   - Average runs scored in an innings   > 25             
+2. Strike Rate       - No of runs scored per 100 balls     > 150        
+3. Innings Batted    - Total Innings batted                > 3
+4. Avg. Balls Faced  - Average balls faced by the batter in an innings > 12
+5. Batting position  - Order in which the batter played    > 4
+6. Boundary %        - Percentage of runs scored through boundaries (4s and 6s)  > 70%
+
+
+
+All-Rounders / Lower Order Anchor
+
+1. Batting Average   - Average runs scored in an innings  	> 20               
+2. Strike Rate       - No of runs scored per 100 balls    	> 140           
+3. Innings Batted    - Total Innings batted               	> 4
+4. Batting position  - Order in which the batter played   	> 4
+5. Innings Bowled    - Total Innings bowled 		    	> 6
+6. Bowling Economy   - Average runs allowed per over      	< 8.5
+7. Bowling Strike Rate -Average no. of balls required to take a wicket < 20
+
+
+Specialist Fast Bowlers
+
+1. Innings Bowled    	- Total Innings bowled 		    	    		      > 8
+2. Bowling Economy   	- Average runs allowed per over      	 		< 8.5
+3. Bowling Strike Rate  - Average no. of balls required to take a wicket 	< 16
+4. Bowling Style        - Bowling style of the player                        = "%Fast%"
+5. Bowling Average      - No. of runs allowed per wicket                     < 23
+6. Dot ball %           - % of dot balls bowled                              > 35
+
+
+
+
