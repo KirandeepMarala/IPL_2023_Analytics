@@ -5,3 +5,11 @@ This repository presents a comprehensive analysis aiming to identify the top 11 
 <p align="center">
     <img src="https://github.com/KirandeepMarala/IPL_2023_Analytics/blob/main/Best_11.png" width="600">
 </p>
+
+## Libraries and Tools used
+
+- Python(Pandas)
+- BeautifulSoup
+- Requests
+- datetime
+- PowerBI
